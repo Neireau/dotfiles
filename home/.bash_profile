@@ -1,5 +1,3 @@
-
-
 # Tell ls to be colourfull
 export CLICOLOR=1
 export LSCOLORS=GxFxCxDxBxegedabagaced

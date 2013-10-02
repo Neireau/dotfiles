@@ -15,7 +15,13 @@ follow_inside_symlinks		"yes"
 bind_to_address			"localhost"
 
 audio_output {
-    type "osx"
-    name "CoreAudio"
-    mixer_type "software"
+				type "osx"
+				name "CoreAudio"
+				mixer_type "software"
+}
+
+audio_output {
+                                type "fifo"
+                                name "My FIFO"
+                                path "/tmp/mpd.fifo"
 }

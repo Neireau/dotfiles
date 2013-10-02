@@ -7,3 +7,66 @@ Oct 02 14:04 : failed to open /Users/Home/.mpd/state: No such file or directory
 Oct 02 14:04 : inotify: auto_update was disabled. enable during compilation phase
 Oct 02 14:04 : inotify: auto_update was disabled. enable during compilation phase
 Oct 02 14:08 : inotify: auto_update was disabled. enable during compilation phase
+Oct 02 14:21 : inotify: auto_update was disabled. enable during compilation phase
+Oct 02 14:23 : inotify: auto_update was disabled. enable during compilation phase
+Oct 02 14:27 : inotify: auto_update was disabled. enable during compilation phase
+Oct 02 14:27 : ffmpeg/mp3: max_analyze_duration 5000000 reached at 5015510 microseconds
+Oct 02 14:27 : added mpd/Rock/2012/Alt-J - An Awesome Wave/01 - Intro.mp3
+Oct 02 14:27 : ffmpeg/mp3: max_analyze_duration 5000000 reached at 5015510 microseconds
+Oct 02 14:27 : added mpd/Rock/2012/Alt-J - An Awesome Wave/02 - (Interlude 1).mp3
+Oct 02 14:27 : ffmpeg/mp3: max_analyze_duration 5000000 reached at 5015510 microseconds
+Oct 02 14:27 : added mpd/Rock/2012/Alt-J - An Awesome Wave/03 - Tessellate.mp3
+Oct 02 14:27 : ffmpeg/mp3: max_analyze_duration 5000000 reached at 5015510 microseconds
+Oct 02 14:27 : added mpd/Rock/2012/Alt-J - An Awesome Wave/04 - Breezeblocks.mp3
+Oct 02 14:27 : ffmpeg/mp3: max_analyze_duration 5000000 reached at 5015510 microseconds
+Oct 02 14:27 : added mpd/Rock/2012/Alt-J - An Awesome Wave/05 - (Interlude 2).mp3
+Oct 02 14:27 : ffmpeg/mp3: max_analyze_duration 5000000 reached at 5015510 microseconds
+Oct 02 14:27 : added mpd/Rock/2012/Alt-J - An Awesome Wave/06 - Something Good.mp3
+Oct 02 14:27 : ffmpeg/mp3: max_analyze_duration 5000000 reached at 5015510 microseconds
+Oct 02 14:27 : added mpd/Rock/2012/Alt-J - An Awesome Wave/07 - Dissolve Me.mp3
+Oct 02 14:27 : ffmpeg/mp3: max_analyze_duration 5000000 reached at 5015510 microseconds
+Oct 02 14:27 : added mpd/Rock/2012/Alt-J - An Awesome Wave/08 - Matilda.mp3
+Oct 02 14:27 : ffmpeg/mp3: max_analyze_duration 5000000 reached at 5015510 microseconds
+Oct 02 14:27 : added mpd/Rock/2012/Alt-J - An Awesome Wave/09 - MS.mp3
+Oct 02 14:27 : ffmpeg/mp3: max_analyze_duration 5000000 reached at 5015510 microseconds
+Oct 02 14:27 : added mpd/Rock/2012/Alt-J - An Awesome Wave/10 - Fitzpleasure.mp3
+Oct 02 14:27 : ffmpeg/mp3: max_analyze_duration 5000000 reached at 5015510 microseconds
+Oct 02 14:27 : added mpd/Rock/2012/Alt-J - An Awesome Wave/11 - (Interlude 3).mp3
+Oct 02 14:27 : ffmpeg/mp3: max_analyze_duration 5000000 reached at 5015510 microseconds
+Oct 02 14:27 : added mpd/Rock/2012/Alt-J - An Awesome Wave/12 - Bloodflood.mp3
+Oct 02 14:27 : ffmpeg/mp3: max_analyze_duration 5000000 reached at 5015510 microseconds
+Oct 02 14:27 : added mpd/Rock/2012/Alt-J - An Awesome Wave/13 - Taro.mp3
+Oct 02 14:27 : ffmpeg/mp3: max_analyze_duration 5000000 reached at 5016000 microseconds
+Oct 02 14:27 : added mpd/Rock/2013/Arctic Monkeys - AM/A1 - Do I Wanna Know.mp3
+Oct 02 14:27 : ffmpeg/mp3: max_analyze_duration 5000000 reached at 5016000 microseconds
+Oct 02 14:27 : added mpd/Rock/2013/Arctic Monkeys - AM/A2 - R U Mine.mp3
+Oct 02 14:27 : ffmpeg/mp3: max_analyze_duration 5000000 reached at 5016000 microseconds
+Oct 02 14:27 : added mpd/Rock/2013/Arctic Monkeys - AM/A3 - One For The Road.mp3
+Oct 02 14:27 : ffmpeg/mp3: max_analyze_duration 5000000 reached at 5016000 microseconds
+Oct 02 14:27 : added mpd/Rock/2013/Arctic Monkeys - AM/A4 - Arabella.mp3
+Oct 02 14:27 : ffmpeg/mp3: max_analyze_duration 5000000 reached at 5016000 microseconds
+Oct 02 14:27 : added mpd/Rock/2013/Arctic Monkeys - AM/A5 - I Want It All.mp3
+Oct 02 14:27 : ffmpeg/mp3: max_analyze_duration 5000000 reached at 5016000 microseconds
+Oct 02 14:27 : added mpd/Rock/2013/Arctic Monkeys - AM/A6 - No. 1 Party Anthem.mp3
+Oct 02 14:27 : ffmpeg/mp3: max_analyze_duration 5000000 reached at 5016000 microseconds
+Oct 02 14:27 : added mpd/Rock/2013/Arctic Monkeys - AM/B1 - Mad Sounds.mp3
+Oct 02 14:27 : ffmpeg/mp3: max_analyze_duration 5000000 reached at 5016000 microseconds
+Oct 02 14:27 : added mpd/Rock/2013/Arctic Monkeys - AM/B2 - Fireside.mp3
+Oct 02 14:27 : ffmpeg/mp3: max_analyze_duration 5000000 reached at 5016000 microseconds
+Oct 02 14:27 : added mpd/Rock/2013/Arctic Monkeys - AM/B3 - Why'd You Only Call Me When You're High.mp3
+Oct 02 14:27 : ffmpeg/mp3: max_analyze_duration 5000000 reached at 5016000 microseconds
+Oct 02 14:27 : added mpd/Rock/2013/Arctic Monkeys - AM/B4 - Snap Out Of It.mp3
+Oct 02 14:27 : ffmpeg/mp3: max_analyze_duration 5000000 reached at 5016000 microseconds
+Oct 02 14:27 : added mpd/Rock/2013/Arctic Monkeys - AM/B5 - Knee Socks.mp3
+Oct 02 14:27 : ffmpeg/mp3: max_analyze_duration 5000000 reached at 5016000 microseconds
+Oct 02 14:27 : added mpd/Rock/2013/Arctic Monkeys - AM/B6 - I Wanna Be Yours.mp3
+Oct 02 14:27 : ffmpeg/mp3: max_analyze_duration 5000000 reached at 5016000 microseconds
+Oct 02 14:27 : added mpd/Rock/2013/Arctic Monkeys - AM/C1 - 2013.mp3
+Oct 02 14:27 : ffmpeg/mp3: max_analyze_duration 5000000 reached at 5016000 microseconds
+Oct 02 14:27 : added mpd/Rock/2013/Arctic Monkeys - AM/D1 - Stop The World I Wanna Get Off With You.mp3
+Oct 02 14:30 : ffmpeg/mp3: max_analyze_duration 5000000 reached at 5015510 microseconds
+Oct 02 14:32 : ffmpeg/mp3: Header missing
+Oct 02 14:32 : decoding failed, frame skipped
+Oct 02 14:32 : ffmpeg/mp3: max_analyze_duration 5000000 reached at 5016000 microseconds
+Oct 02 14:32 : played "mpd/Rock/2012/Alt-J - An Awesome Wave/01 - Intro.mp3"
+Oct 02 14:34 : ffmpeg/mp3: max_analyze_duration 5000000 reached at 5016000 microseconds
