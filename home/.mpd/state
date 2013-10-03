@@ -1,0 +1,42 @@
+sw_volume: 100
+audio_device_state:1:CoreAudio
+audio_device_state:1:My FIFO
+state: pause
+current: 1
+time: 4
+random: 0
+repeat: 0
+single: 0
+consume: 0
+crossfade: 5
+mixrampdb: 0.000000
+mixrampdelay: nan
+playlist_begin
+0:mpd/Rock/2012/Alt-J - An Awesome Wave/01 - Intro.mp3
+1:mpd/Rock/2013/Arctic Monkeys - AM/B3 - Why'd You Only Call Me When You're High.mp3
+2:mpd/Rock/2012/Alt-J - An Awesome Wave/07 - Dissolve Me.mp3
+3:mpd/Rock/2013/Arctic Monkeys - AM/B4 - Snap Out Of It.mp3
+4:mpd/Rock/2012/Alt-J - An Awesome Wave/03 - Tessellate.mp3
+5:mpd/Rock/2012/Alt-J - An Awesome Wave/02 - (Interlude 1).mp3
+6:mpd/Rock/2013/Arctic Monkeys - AM/C1 - 2013.mp3
+7:mpd/Rock/2012/Alt-J - An Awesome Wave/10 - Fitzpleasure.mp3
+8:mpd/Rock/2012/Alt-J - An Awesome Wave/05 - (Interlude 2).mp3
+9:mpd/Rock/2013/Arctic Monkeys - AM/D1 - Stop The World I Wanna Get Off With You.mp3
+10:mpd/Rock/2012/Alt-J - An Awesome Wave/11 - (Interlude 3).mp3
+11:mpd/Rock/2013/Arctic Monkeys - AM/A5 - I Want It All.mp3
+12:mpd/Rock/2012/Alt-J - An Awesome Wave/06 - Something Good.mp3
+13:mpd/Rock/2013/Arctic Monkeys - AM/B5 - Knee Socks.mp3
+14:mpd/Rock/2013/Arctic Monkeys - AM/A3 - One For The Road.mp3
+15:mpd/Rock/2013/Arctic Monkeys - AM/B2 - Fireside.mp3
+16:mpd/Rock/2013/Arctic Monkeys - AM/A4 - Arabella.mp3
+17:mpd/Rock/2012/Alt-J - An Awesome Wave/13 - Taro.mp3
+18:mpd/Rock/2013/Arctic Monkeys - AM/A6 - No. 1 Party Anthem.mp3
+19:mpd/Rock/2013/Arctic Monkeys - AM/A1 - Do I Wanna Know.mp3
+20:mpd/Rock/2012/Alt-J - An Awesome Wave/12 - Bloodflood.mp3
+21:mpd/Rock/2012/Alt-J - An Awesome Wave/09 - MS.mp3
+22:mpd/Rock/2013/Arctic Monkeys - AM/A2 - R U Mine.mp3
+23:mpd/Rock/2013/Arctic Monkeys - AM/B6 - I Wanna Be Yours.mp3
+24:mpd/Rock/2012/Alt-J - An Awesome Wave/08 - Matilda.mp3
+25:mpd/Rock/2012/Alt-J - An Awesome Wave/04 - Breezeblocks.mp3
+26:mpd/Rock/2013/Arctic Monkeys - AM/B1 - Mad Sounds.mp3
+playlist_end
