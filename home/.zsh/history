@@ -499,3 +499,27 @@ homesick
 homesick push
 homesick track .vim
 homesick commit
+homesick push
+ls -a
+gvim .bash_profile
+bash
+gvim .zshrc
+homesick track .tmux
+homesick track .tmux.conf
+homesick track .gitconfig
+ls .subversion
+ls .subversion/README.txt
+ls .subversion/auth
+vimpager .subversion/README.txt
+ls
+ls -a
+ll
+ls++
+tmux -t
+tmux
+ls -a
+rm .tmux
+ls -a .homesick/repos/dotfiles/home/
+ls -a
+rm -rf .subversion
+homesick commit
