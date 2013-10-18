@@ -1,0 +1,4 @@
+source /usr/local/opt/zsh-syntax-highlighting/share/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
+
+fpath=($HOME/.zsh/func $fpath)
+typeset -U fpath

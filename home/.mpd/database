@@ -21,7 +21,7 @@ tag: MUSICBRAINZ_ALBUMARTISTID
 tag: MUSICBRAINZ_TRACKID
 info_end
 directory: mpd
-mtime: 1380716725
+mtime: 1381499519
 begin: mpd
 directory: Rock
 mtime: 1380716777
@@ -325,4 +325,192 @@ song_end
 end: mpd/Rock/2013/Arctic Monkeys - AM
 end: mpd/Rock/2013
 end: mpd/Rock
+directory: Synthpop
+mtime: 1381499817
+begin: mpd/Synthpop
+directory: 2013
+mtime: 1381499812
+begin: mpd/Synthpop/2013
+directory: CHVRCHES - The Bones Of What You Believe
+mtime: 1381499629
+begin: mpd/Synthpop/2013/CHVRCHES - The Bones Of What You Believe
+song_begin: 01 - Chvrches - The Mother We Share (Chvrches).mp3
+Time: 191
+Artist: Chvrches
+Album: The Bones Of What You Believe (Special Edition)
+Title: The Mother We Share
+Track: 01
+Genre: Indie/Synthpop
+Date: 2013
+AlbumArtist: Chvrches
+mtime: 1381498798
+song_end
+song_begin: 02 - Chvrches - We Sink (Chvrches).mp3
+Time: 214
+Artist: Chvrches
+Album: The Bones Of What You Believe (Special Edition)
+Title: We Sink
+Track: 02
+Genre: Indie/Synthpop
+Date: 2013
+AlbumArtist: Chvrches
+mtime: 1381498793
+song_end
+song_begin: 03 - Chvrches - Gun (Chvrches).mp3
+Time: 234
+Artist: Chvrches
+Album: The Bones Of What You Believe (Special Edition)
+Title: Gun
+Track: 03
+Genre: Indie/Synthpop
+Date: 2013
+AlbumArtist: Chvrches
+mtime: 1381498797
+song_end
+song_begin: 04 - Chvrches - Tether (Chvrches).mp3
+Time: 286
+Artist: Chvrches
+Album: The Bones Of What You Believe (Special Edition)
+Title: Tether
+Track: 04
+Genre: Indie/Synthpop
+Date: 2013
+AlbumArtist: Chvrches
+mtime: 1381498799
+song_end
+song_begin: 05 - Chvrches - Lies (Chvrches).mp3
+Time: 221
+Artist: Chvrches
+Album: The Bones Of What You Believe (Special Edition)
+Title: Lies
+Track: 05
+Genre: Indie/Synthpop
+Date: 2013
+AlbumArtist: Chvrches
+mtime: 1381498796
+song_end
+song_begin: 06 - Chvrches - Under The Tide (Chvrches).mp3
+Time: 272
+Artist: Chvrches
+Album: The Bones Of What You Believe (Special Edition)
+Title: Under The Tide
+Track: 06
+Genre: Indie/Synthpop
+Date: 2013
+AlbumArtist: Chvrches
+mtime: 1381498794
+song_end
+song_begin: 07 - Chvrches - Recover (Chvrches).mp3
+Time: 225
+Artist: Chvrches
+Album: The Bones Of What You Believe (Special Edition)
+Title: Recover
+Track: 07
+Genre: Indie/Synthpop
+Date: 2013
+AlbumArtist: Chvrches
+mtime: 1381498800
+song_end
+song_begin: 08 - Chvrches - Night Sky (Chvrches).mp3
+Time: 231
+Artist: Chvrches
+Album: The Bones Of What You Believe (Special Edition)
+Title: Night Sky
+Track: 08
+Genre: Indie/Synthpop
+Date: 2013
+AlbumArtist: Chvrches
+mtime: 1381498786
+song_end
+song_begin: 09 - Chvrches - ScienceVisions (Chvrches).mp3
+Time: 238
+Artist: Chvrches
+Album: The Bones Of What You Believe (Special Edition)
+Title: Science/Visions
+Track: 09
+Genre: Indie/Synthpop
+Date: 2013
+AlbumArtist: Chvrches
+mtime: 1381498798
+song_end
+song_begin: 10 - Chvrches - Lungs (Chvrches).mp3
+Time: 182
+Artist: Chvrches
+Album: The Bones Of What You Believe (Special Edition)
+Title: Lungs
+Track: 10
+Genre: Indie/Synthpop
+Date: 2013
+AlbumArtist: Chvrches
+mtime: 1381498794
+song_end
+song_begin: 11 - Chvrches - By The Throat (Chvrches).mp3
+Time: 249
+Artist: Chvrches
+Album: The Bones Of What You Believe (Special Edition)
+Title: By The Throat
+Track: 11
+Genre: Indie/Synthpop
+Date: 2013
+AlbumArtist: Chvrches
+mtime: 1381498804
+song_end
+song_begin: 12 - Chvrches - You Caught The Light (Chvrches).mp3
+Time: 340
+Artist: Chvrches
+Album: The Bones Of What You Believe (Special Edition)
+Title: You Caught The Light
+Track: 12
+Genre: Indie/Synthpop
+Date: 2013
+AlbumArtist: Chvrches
+mtime: 1381498795
+song_end
+song_begin: 13 - Chvrches - Strong Hand (Bonus Track) (Chvrches).mp3
+Time: 206
+Artist: Chvrches
+Album: The Bones Of What You Believe (Special Edition)
+Title: Strong Hand (Bonus Track)
+Track: 13
+Genre: Indie/Synthpop
+Date: 2013
+AlbumArtist: Chvrches
+mtime: 1381498782
+song_end
+song_begin: 14 - Chvrches - Broken Bones (Bonus Track) (Chvrches).mp3
+Time: 224
+Artist: Chvrches
+Album: The Bones Of What You Believe (Special Edition)
+Title: Broken Bones (Bonus Track)
+Track: 14
+Genre: Indie/Synthpop
+Date: 2013
+AlbumArtist: Chvrches
+mtime: 1381498805
+song_end
+song_begin: 15 - Chvrches - Gun (KDA RemixBonus Track.) (Chvrches).mp3
+Time: 375
+Artist: Chvrches
+Album: The Bones Of What You Believe (Special Edition)
+Title: Gun (KDA Remix/Bonus Track.)
+Track: 15
+Genre: Indie/Synthpop
+Date: 2013
+AlbumArtist: Chvrches
+mtime: 1381498800
+song_end
+song_begin: 16 - Chvrches - The Mother We Share (We Were Promised Jetpacks RemixBonus Track) (Chvrches).mp3
+Time: 358
+Artist: Chvrches
+Album: The Bones Of What You Believe (Special Edition)
+Title: The Mother We Share (We Were Promised Jetpacks Remix/Bonus Track)
+Track: 16
+Genre: Indie/Synthpop
+Date: 2013
+AlbumArtist: Chvrches
+mtime: 1381498798
+song_end
+end: mpd/Synthpop/2013/CHVRCHES - The Bones Of What You Believe
+end: mpd/Synthpop/2013
+end: mpd/Synthpop
 end: mpd

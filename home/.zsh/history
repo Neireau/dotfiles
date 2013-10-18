@@ -1,0 +1,497 @@
+brew doctor
+brew list
+brew update
+wget https://raw.github.com/trapd00r/LS_COLORS/master/LS_COLORS -O $HOME/.zsh/dircolors
+cd .zsh
+gvim 01-general.zsh
+gvim
+gvim 02-functions.zsh
+gvim rzsh_path
+cd Downloads
+chmod 777 rzsh_path
+gvim 01-general.zsh
+~
+gvim .zshrc
+echo (brew --prefix)
+echo
+brew --prefix
+ls /usr/local/Cellar/coreutils
+ls
+cd ,zsh
+cd .zsh
+gvim 01-envars.zsh
+rm -rf 01-general.zsh
+ls
+gls
+cd .zsh
+gvim 01-envars.zsh
+ls
+ls
+ls -a
+ls .zsh
+cd .zsh
+ls
+gvim 01-envars.zsh
+gvim 02-functions.zsh
+gvim ~/.zsh
+gvim ~/.zshrc
+mv dircolors LS_COLORS
+ls
+brew update
+git config --global user.email "k.t.c.gravenhorst@me.com\
+"
+git config --global user.email "k.t.c.gravenhorst@me.com\
+"
+git config --global user.email "k.t.c.gravenhorst@me.com\
+\
+\
+"
+git config --global user.email "k.t.c.gravenhorst@me.com"
+git config --global user.name "Neireau"
+brew update
+brew upgrade
+cd /Users/Home/Desktop/CD1 
+ls
+afconvert *.flac 
+afconvert -hf
+lame
+cd
+cd .zsh
+gvim 02-functions.zsh
+~
+brew doctor
+cd .zsh
+gvim 01-envars.zsh
+brew update
+which which
+gwhich
+brew rm findutils gnu-indent gnu-sed gnu-tar gnu-which gnutls grep gawk screen watch 
+brew rm findutils gnu-indent gnu-sed gnu-tar gnu-which gnutls gawk screen watch
+brew rm findutils gnu-indent gnu-sed gnu-tar gnu-which gnutls gawk watch
+brew install findutils --default-names
+brew --help
+brew --config
+brew --env
+man brew
+export HOMEBREW_NO_EMOJI=1
+brew install gnu-indent --default-names
+brew install gnu-sed --default-names
+brew install gnu-tar --default-names
+ls -a
+brew install gnu-which --default-names
+local
+brew install gnutls --default-names
+ls .cpan
+ls .ssh
+rm -rf .ssh
+rm .ncmpcpp
+rm .viminfo
+ls .gem
+ls .gem/ruby
+ls .gem/ruby/1.8
+rm .dircolors
+ls -a
+rm .cpan
+rm 0rf .cpan
+ls -a
+rm -rf .cpan
+rm -rf .cpan
+s rm -rf .cpan
+ls -a
+brew install grep --default-names
+brew install gawk
+brew install screen
+brew install watch
+brew install wget
+brew doctor
+ll
+man ls++
+man ls++.conf
+gvim .ls++.conf
+ll
+ll -a
+ll -pf
+ll -pfs
+ls /usr/local/
+ls /usr/local/bin
+nano /usr/local/bin/ls++
+ll -potsf
+ls++ -potsf
+nano /usr/local/bin/ls++
+cp /usr/local/bin/ls++ /usr/local/bin/ls++.bak
+gvim /usr/local/bin/ls++
+gvim .vimrc
+gvim /usr/local/bin/ls++
+ls++
+ll Downloads
+ll Downloads/Torrent
+ls -a
+ll -potsf
+cd .zsh
+gvim 07-zstyle.zsh
+mk ~/.vim/colors
+gvim ~/.vim/colors/nucolors.vim
+gvim ~/.vim/colors/dotshare.vim
+gvim ~/.vim/colors/getfish.vim
+gvim
+screen
+screen
+screen
+git clone https://github.com/gmarik/vundle.git ~/.vim/bundle/vundle
+gvim
+ll
+vi
+gvim .vimrc
+vi
+vi
+vim
+gvim
+gvim
+gvim
+gvim
+gvim
+gvim
+gvim
+cd .zsh
+gvim 06-syntax-rules.zsh
+cd brew --prefix
+cd (brew --prefix)
+brew --prefix
+cd /usr/local/Cellar
+ls
+cd zsh-syntax-highlighting
+ls
+cd 0.2.0
+ls
+cd share
+ls
+cd zsh-syntax-highlighting
+ls
+less README.md
+ls
+pwd
+cd /usr/local
+ls
+cd opd
+cd opt
+ls
+cd zsh-syntax-highlighting
+ls
+cd share
+ls
+cd zsh-syntax-highlighting
+;s
+ls
+cd .zsh
+symlink
+gvim 05-zsh-highlighting.zsh
+pwd
+brew search scrot
+brew info scrotwm
+brew update
+brew doctor
+gvim .zsh/01-envars.zsh
+gvim /Users/Home/Desktop/test.itermcolors 
+awk
+gawk
+which findutils
+findutils
+ls
+gvim .zsh/01-envars.zsh
+brew rm findutils
+BREW DOCTOR
+which which
+brew install gnu-which
+gwhich
+ll
+ll -a
+macvim
+gvim
+vim
+vim -g
+mvim -v
+ls /bin/
+/bin/vi
+ls /usr/bin
+/usr/bin/vi
+/usr/bin/vim
+/usr/bin/vim -g
+ll
+browser
+ff
+gvim .zsh/02-aliases.zsh
+cls
+h
+t
+gst
+homesick
+homesick clone dotfiles
+cls
+ls -a
+.backup
+mk .backup
+ls -a
+cp .l* .g* .z* .v* ~/.backup
+ls -a
+ls .backup
+ls -a .backup
+open /opt/homebrew-cask/Caskroom/google-chrome/stable-channel/Google\ Chrome.app 
+homesick clone https://github.com/Neireau/dotfiles
+homesick
+ll .homesick/repos/dotfiles/home
+ll -a .homesick/repos/dotfiles/home
+ls -a
+homesick track .ls++.conf dotfiles
+homesick track gitconfig dotfiles
+homesick track .gitconfig dotfiles
+homesick track .zsh .zshrc dotfiles
+homesick track .zsh dotfiles
+homesick track .zshrc dotfiles
+homesick track .vim dotfiles
+ll -a .homesick/repos/dotfiles/home
+homesick track .vimrc dotfiles
+ll -a .homesick/repos/dotfiles/home
+rm .homesick/repos/dotfiles/home/.vimrc
+rm .homesick/repos/dotfiles/home/.vim
+homesick track .vimrc dotfiles
+homesick track .vim/ dotfiles
+homesick track .zsh/ dotfiles
+ll -a .homesick/repos/dotfiles/home/.zsh
+rm .zshrc.swp
+ls -a
+homesick push
+homesick symlink dotfiles
+ls -a
+gvim
+ls -a
+cd .homesick/repos/dotfiles/home
+ls -a
+rm gitconfig
+rm .vim
+ls -a
+cp ~/.backup/.vim ./
+ls -a
+homesick push
+homesick symlink dotfiles
+ls -a
+gvim
+bundle install
+/Users/Home/Downloads/Browser/MPDTie-master/Gemspec 
+/Users/Home/Downloads/Browser/MPDTie-master/rbowtie.rb 
+/Users/Home/Downloads/Browser/MPDTie-master/mpdtie-pair 
+/Users/Home/Downloads/Browser/MPDTie-master/Gemspec bundle install
+install /Users/Home/Downloads/Browser/MPDTie-master/Gemspec 
+ruby
+ruby
+/Users/Home/Downloads/Browser/MPDTie-master/mpdtie 
+ruby ($ bundle install)
+brew doctor
+ruby /Users/Home/Downloads/Browser/MPDTie-master/Gemspec 
+ruby /Users/Home/Downloads/Browser/MPDTie-master/rbowtie.rb 
+brew update
+brew install rbenv
+gvim .zshrc
+brew install ruby-build
+tmux
+mpd
+ncmpcpp
+ruby --version
+ruby --version
+killall tmux
+ncmpcpp
+rbenv install 2.0.0-p247
+killall mpd
+killall ncmpcpp
+cls
+rbenv install 2.0.0-p247
+which ruby
+ruby --version
+ruby --version
+ls -al .rbenv
+gvin .zshrc
+gvim .zshrc
+ls -al
+ll
+ls /usr/local/var/rbenv/
+ls /usr/local/var/rbenv/versions
+ls .rbenv
+ls .rbenv/versions
+rbenv install 2.0.0-p247
+tmux
+gvim .tmux.conf
+killall tmux
+gvim
+gvim .tmux.conf
+tmux
+gvim 
+vim --version
+vim --version | grep clipboard
+ls /usr/local/var/rbenv/versions
+rm -rf .rbenv
+ls -a
+rbenv rehash
+ruby --version
+ls /usr/local/var/rbenv/versions
+brew install reattach-to-user-namespace --wrap-pbcopy-and-pbpaste
+gvim .tmux.conf
+ruby --version
+tmux
+gvim
+gvim
+vim
+gvim .tmux.conf
+killall tmux
+tmux
+vim
+gvim
+killall tmux
+gvim
+mvim
+tmux
+mvim
+brew rm reattach-to-user-namespace
+brew install reattach-to-user-namespace
+gvim .tmux.conf
+tmux
+killall tmyx
+killall tmux
+tmux
+gvim
+ncmpcpp
+mpd
+ncmpcpp
+cls
+brew update
+gvim
+rbenv init
+ruby --version
+rbenv init -
+ruby --version
+ruby --version
+rbenv
+rbenv ruby
+rbenv shell
+rbenv
+ruby --version
+tmux
+ruby --version
+gvim .zshrc
+brew search ruby
+gvim .zshrc
+gvim .zsh/02-functions.zsh
+gvim .zsh/01-envars.zsh
+ruby --version
+ruby-build
+ruby-build --definitions
+rbenv rehash
+ruby --version
+rbenv ruby
+rbenv --version
+rbenv install 2.0.0-p257
+rbenv install 2.0.0-p247
+rbenv 2.0.0-p247
+rbenv versions
+ruby -v
+env | grep PATH
+rbenv shell
+rbenv global
+export RBENV_VERSION=2.0.0-p247
+ruby --version
+ruby -v
+gvim
+ruby -v
+tmux
+ruby -v
+which tmux
+killall tmux
+tmux -2
+killall tmyx
+killall tmux
+tmux
+ruby -v
+/Users/Home/Downloads/Browser/MPDTie-master/Gemspec 
+ruby /Users/Home/Downloads/Browser/MPDTie-master/Gemspec 
+bundle install
+/Users/Home/Downloads/Browser/MPDTie-master/mpdtie-pair 
+/Users/Home/Downloads/Browser/MPDTie-master/rbowtie.rb 
+ruby /Users/Home/Downloads/Browser/MPDTie-master/rbowtie.rb 
+ruby /Users/Home/Downloads/Browser/MPDTie-master/Gemspec 
+cd /Users/Home/Downloads/Browser/MPDTie-master 
+./mpdtie-pair
+ruby
+ruby -e /Users/Home/Downloads/Browser/MPDTie-master/Gemspec 
+ruby -e /Users/Home/Downloads/Browser/MPDTie-master/rbowtie.rb 
+ruby -v
+ruby -e /Users/Home/Downloads/Browser/MPDTie-master/rbowtie.rb 
+/Users/Home/Downloads/Browser/MPDTie-master/rbowtie.rb 
+brew gem plist
+/Users/Home/Downloads/Browser/MPDTie-master/rbowtie.rb 
+brew list
+brew deps
+brew cleanup -s â€ƒ´force
+brew cleanup -force
+brew cleanup -s
+brew prune
+gvim
+gvim .zsh 01-envars
+gvim .zsh/02-functions.zsh
+gvim .zsh/01-envars.zsh
+gvim .zsh/05-zsh-highlighting.zsh 
+gvim "$(brew --prefix)/Library/Contributions/brew_zsh_completion.zsh"
+mkdir -p ~/.zsh/func
+ln -s "$(brew --prefix)/Library/Contributions/brew_zsh_completion.zsh" ~/.zsh/func/_brew
+brew cleanup
+brew cleanup 
+brew list
+brew search
+brew list
+gvim .zsh/05-zsh-highlighting.zsh
+ls -a .zsh
+rm *.swp
+ls -a
+ls -a .zsh
+rm .0*
+rm -rf .0*
+print -rl -- *(.^e{'grep -q pattern $REPLY'})
+print -rl -- *(.^e{'grep -q pattern $0'})
+print -rl 0 *(.^e{'grep -q pattern $REPLY'})
+echo $[${RANDOM}%1000]
+echo $[${RANDOM}%1000]
+echo $[${RANDOM}%1000]
+echo $[${RANDOM}%1000]
+# test if a parameter is numeric
+  $ if [[ $1 == <-> ]] ; then
+         echo numeric
+         echo non-numeric
+%ll
+ll
+cd .zsh
+ls
+ll -a
+rm .01-general.zsh.swp
+rm .0*
+ls
+ls -a
+ls func
+gvim func/+brew
+gvim func/_brew
+echo fpath
+echo $fpath
+tmux
+hostname MacBookPro
+s hostname MacBookPro
+tmux -t
+tmux
+
+homesick
+homesick push dotfiles
+homesick commit
+homesick commit
+homesick commit
+gvim .gitconfig
+gvim .zshrc
+gvim .zsh/01-envars.zsh
+tmux
+killall tmux
+tmux
+homesick commit

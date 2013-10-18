@@ -70,3 +70,40 @@ Oct 02 14:32 : decoding failed, frame skipped
 Oct 02 14:32 : ffmpeg/mp3: max_analyze_duration 5000000 reached at 5016000 microseconds
 Oct 02 14:32 : played "mpd/Rock/2012/Alt-J - An Awesome Wave/01 - Intro.mp3"
 Oct 02 14:34 : ffmpeg/mp3: max_analyze_duration 5000000 reached at 5016000 microseconds
+Oct 18 17:53 : inotify: auto_update was disabled. enable during compilation phase
+Oct 18 17:53 : ffmpeg/mp3: max_analyze_duration 5000000 reached at 5016000 microseconds
+Oct 18 17:53 : ffmpeg/mp3: max_analyze_duration 5000000 reached at 5015510 microseconds
+Oct 18 17:53 : added mpd/Synthpop/2013/CHVRCHES - The Bones Of What You Believe/01 - Chvrches - The Mother We Share (Chvrches).mp3
+Oct 18 17:53 : ffmpeg/mp3: max_analyze_duration 5000000 reached at 5015510 microseconds
+Oct 18 17:53 : added mpd/Synthpop/2013/CHVRCHES - The Bones Of What You Believe/02 - Chvrches - We Sink (Chvrches).mp3
+Oct 18 17:53 : ffmpeg/mp3: max_analyze_duration 5000000 reached at 5015510 microseconds
+Oct 18 17:53 : added mpd/Synthpop/2013/CHVRCHES - The Bones Of What You Believe/03 - Chvrches - Gun (Chvrches).mp3
+Oct 18 17:53 : ffmpeg/mp3: max_analyze_duration 5000000 reached at 5015510 microseconds
+Oct 18 17:53 : added mpd/Synthpop/2013/CHVRCHES - The Bones Of What You Believe/04 - Chvrches - Tether (Chvrches).mp3
+Oct 18 17:53 : ffmpeg/mp3: max_analyze_duration 5000000 reached at 5015510 microseconds
+Oct 18 17:53 : added mpd/Synthpop/2013/CHVRCHES - The Bones Of What You Believe/05 - Chvrches - Lies (Chvrches).mp3
+Oct 18 17:53 : ffmpeg/mp3: max_analyze_duration 5000000 reached at 5015510 microseconds
+Oct 18 17:53 : added mpd/Synthpop/2013/CHVRCHES - The Bones Of What You Believe/06 - Chvrches - Under The Tide (Chvrches).mp3
+Oct 18 17:53 : ffmpeg/mp3: max_analyze_duration 5000000 reached at 5015510 microseconds
+Oct 18 17:53 : added mpd/Synthpop/2013/CHVRCHES - The Bones Of What You Believe/07 - Chvrches - Recover (Chvrches).mp3
+Oct 18 17:53 : ffmpeg/mp3: max_analyze_duration 5000000 reached at 5015510 microseconds
+Oct 18 17:53 : added mpd/Synthpop/2013/CHVRCHES - The Bones Of What You Believe/08 - Chvrches - Night Sky (Chvrches).mp3
+Oct 18 17:53 : ffmpeg/mp3: max_analyze_duration 5000000 reached at 5015510 microseconds
+Oct 18 17:53 : added mpd/Synthpop/2013/CHVRCHES - The Bones Of What You Believe/09 - Chvrches - ScienceVisions (Chvrches).mp3
+Oct 18 17:53 : ffmpeg/mp3: max_analyze_duration 5000000 reached at 5015510 microseconds
+Oct 18 17:53 : added mpd/Synthpop/2013/CHVRCHES - The Bones Of What You Believe/10 - Chvrches - Lungs (Chvrches).mp3
+Oct 18 17:53 : ffmpeg/mp3: max_analyze_duration 5000000 reached at 5015510 microseconds
+Oct 18 17:53 : added mpd/Synthpop/2013/CHVRCHES - The Bones Of What You Believe/11 - Chvrches - By The Throat (Chvrches).mp3
+Oct 18 17:53 : ffmpeg/mp3: max_analyze_duration 5000000 reached at 5015510 microseconds
+Oct 18 17:53 : added mpd/Synthpop/2013/CHVRCHES - The Bones Of What You Believe/12 - Chvrches - You Caught The Light (Chvrches).mp3
+Oct 18 17:53 : ffmpeg/mp3: max_analyze_duration 5000000 reached at 5015510 microseconds
+Oct 18 17:53 : added mpd/Synthpop/2013/CHVRCHES - The Bones Of What You Believe/13 - Chvrches - Strong Hand (Bonus Track) (Chvrches).mp3
+Oct 18 17:53 : ffmpeg/mp3: max_analyze_duration 5000000 reached at 5015510 microseconds
+Oct 18 17:53 : added mpd/Synthpop/2013/CHVRCHES - The Bones Of What You Believe/14 - Chvrches - Broken Bones (Bonus Track) (Chvrches).mp3
+Oct 18 17:53 : ffmpeg/mp3: max_analyze_duration 5000000 reached at 5015510 microseconds
+Oct 18 17:53 : added mpd/Synthpop/2013/CHVRCHES - The Bones Of What You Believe/15 - Chvrches - Gun (KDA RemixBonus Track.) (Chvrches).mp3
+Oct 18 17:53 : ffmpeg/mp3: max_analyze_duration 5000000 reached at 5015510 microseconds
+Oct 18 17:53 : added mpd/Synthpop/2013/CHVRCHES - The Bones Of What You Believe/16 - Chvrches - The Mother We Share (We Were Promised Jetpacks RemixBonus Track) (Chvrches).mp3
+Oct 18 17:54 : ffmpeg/mp3: max_analyze_duration 5000000 reached at 5015510 microseconds
+Oct 18 19:07 : inotify: auto_update was disabled. enable during compilation phase
+Oct 18 19:07 : ffmpeg/mp3: max_analyze_duration 5000000 reached at 5015510 microseconds
