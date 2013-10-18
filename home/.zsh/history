@@ -528,3 +528,242 @@ ls .zsh
 gvim .zsh/07-zstyles.zsh .zsh/07-zstyle.zsh
 rm .zsh/07-zstyle.zsh
 homesick commit
+homesick push
+/Applications/VLC.app/Contents/MacOS/VLC
+/Applications/VLC.app/Contents/MacOS/VLC
+~/Applications/VLC.app/Contents/MacOS/VLC
+killall tmux
+CoreText: Invalid 'kern' Subtable In CTFont <name: LucidaGrande
+~
+~/Applications/VLC.app/Contents/MacOS/VLC
+~/Applications/VLC.app/Contents/MacOS/VLC
+~/Applications/VLC.app/Contents/MacOS/VLC --intf=rc
+pg
+tmux
+source .tmux.conf
+killall tmux
+gvim
+tmux
+cls
+ncmpcpp
+brew update
+ll
+ll /Applications
+ll
+gvim .tmux.conf
+source-file ~/.tmux.conf
+killall tmyx
+killall tmux
+tmux
+tmux
+test
+ls -a
+tmux -t
+tmux
+killall tmyx
+killall tmux
+gvim
+tmux
+ll
+ll-a
+ll -a
+ll
+ll -a
+#-------~---~----------~----------~----
+#       .---..-.-.-..-..-..-..-.
+#       `| |'| | | || || | >  <\
+#        `-' `-'-'-'`----''-''-'\
+#-------~---~----------~----------~----\
+# file: $XDG_CONFIG_HOME/tmux/conf\
+#-------~---~----------~----------~----\
+\
+#-------~---~----------~----------~----\
+# KEYBINDS\
+#-------~---~----------~----------~----\
+\
+set -g prefix ^a\
+set -g status-keys vi\
+setw -g mode-keys vi\
+setw -g mode-mouse on\
+\
+# Unbinds\
+# `-> these are part of the default mappings 
+#     and will get new functionality
+unbind c
+unbind i
+unbind l
+unbind s
+unbind w
+bind F12 source-file ~/etc/tmux/tmux.conf
+bind w neww
+bind m choose-window
+bind a choose-session
+bind ^a send-prefix
+bind q kill-pane
+bind ^q kill-window
+bind c copy-mode
+bind t set status
+bind -n ^F1 select-window -t 1
+bind -n ^F2 select-window -t 2
+bind -n ^F3 select-window -t 3
+bind -n ^F4 select-window -t 4
+bind -n ^F5 select-window -t 5
+bind -n ^F6 select-window -t 6
+bind -n ^F7 select-window -t 7
+bind -n ^F8 select-window -t 8
+bind -n ^F9 select-window -t 9
+bind -n ^F10 select-window -t 10
+bind -n ^F11 select-window -t 11
+bind -n ^F12 select-window -t 12
+bind ^h select-pane -L
+bind ^j select-pane -D
+bind ^k select-pane -U
+bind ^l select-pane -R
+bind h resize-pane -L
+bind j resize-pane -D
+bind k resize-pane -U
+bind l resize-pane -R
+bind F1 select-pane -t 1
+bind F2 select-pane -t 2
+bind F3 select-pane -t 3
+bind F4 select-pane -t 4
+bind F5 select-pane -t 5
+bind F6 select-pane -t 6
+bind F7 select-pane -t 7
+bind F8 select-pane -t 8
+bind F9 select-pane -t 9
+bind F10 select-pane -t 10
+bind F11 select-pane -t 11
+# bind F12 select-pane -t 12
+bind i split-window -h
+bind s split-window
+# bind t attach -d -t tmux
+# bind i attach -d -t irc
+# bind r attach -d -t rails
+#-------~---~----------~----------~----
+# WINDOWS & PANES
+#-------~---~----------~----------~----
+# Start counting at 1
+set -g base-index 1
+set -g mouse-select-pane on
+set -g pane-border-fg black
+set -g pane-active-border-fg red
+set -g display-panes-colour white
+set -g display-panes-active-colour red
+set -g display-panes-time 1000
+setw -g monitor-activity on
+setw -g utf8 on
+#-------~---~----------~----------~----
+# MISC SETTINGS
+#-------~---~----------~----------~----
+set -g default-shell /bin/zsh
+set -g default-command /bin/zsh
+setw -g automatic-rename on
+set -g set-titles on
+set -g set-titles-string 'tmux: #T'
+set -g repeat-time 100
+set -g default-terminal "screen-256color"
+setw -g clock-mode-colour red
+killall tmux
+tmux
+ls -A
+ll -A
+âƒ¶ƒµ-rw-r--r--âƒ¶ƒ¯<  hourâƒ´‚  24Kâƒ´‚.DS_Store
+âƒ¶ƒµdrwx------âƒ¶ƒ¯5  hourâƒ´‚  68Bâƒ´‚.Trash
+âƒ¶ƒµdrwxr-xr-xâƒ¶ƒ¯5  hourâƒ´‚ 408Bâƒ´‚.backup
+âƒ¶ƒµlrwxr-xr-xâƒ¶ƒ¯5  hourâƒ´‚  55Bâƒ´‚.bash_profile => /Users/Home/.homesick/repos/dotfiles/home/.bash_profile
+âƒ¶ƒµdrwxr-xr-xâƒ¶ƒ¯20 day âƒ´‚ 136Bâƒ´‚.gem
+âƒ¶ƒµlrwxr-xr-xâƒ¶ƒ¯5  hourâƒ´‚  52Bâƒ´‚.gitconfig => /Users/Home/.homesick/repos/dotfiles/home/.gitconfig
+âƒ¶ƒµ-rw-r--r--âƒ¶ƒ¯<  hourâƒ´‚  24Kâƒ´‚.DS_Store
+âƒ¶ƒµdrwx------âƒ¶ƒ¯5  hourâƒ´‚  68Bâƒ´‚.Trash
+âƒ¶ƒµdrwxr-xr-xâƒ¶ƒ¯5  hourâƒ´‚ 408Bâƒ´‚.backup
+âƒ¶ƒµlrwxr-xr-xâƒ¶ƒ¯5  hourâƒ´‚  55Bâƒ´‚.bash_profile => /Users/Home/.homesick/repos/dotfiles/home/.bash_profile
+âƒ¶ƒµdrwxr-xr-xâƒ¶ƒ¯20 day âƒ´‚ 136Bâƒ´‚.gem
+âƒ¶ƒµlrwxr-xr-xâƒ¶ƒ¯5  hourâƒ´‚  52Bâƒ´‚.gitconfig => /Users/Home/.homesick/repos/dotfiles/home/.gitconfig]]
+âƒ¶ƒµ-rw-r--r--âƒ¶ƒ¯<  hourâƒ´‚  24Kâƒ´‚.DS_Store
+âƒ¶ƒµdrwx------âƒ¶ƒ¯5  hourâƒ´‚  68Bâƒ´‚.Trash
+âƒ¶ƒµdrwxr-xr-xâƒ¶ƒ¯5  hourâƒ´‚ 408Bâƒ´‚.backup
+âƒ¶ƒµlrwxr-xr-xâƒ¶ƒ¯5  hourâƒ´‚  55Bâƒ´‚.bash_profile => /Users/Home/.homesick/repos/dotfiles/home/.bash_profile
+âƒ¶ƒµdrwxr-xr-xâƒ¶ƒ¯20 day âƒ´‚ 136Bâƒ´‚.gem
+âƒ¶ƒµlrwxr-xr-xâƒ¶ƒ¯5  hourâƒ´‚  52Bâƒ´‚.gitconfig => /Users/Home/.homesick/repos/dotfiles/home/.gitconfigkillall ]
+killall tmyx
+killall tmux
+tmux
+killall tmux
+tmux
+ls
+ls
+ls
+ls
+ll
+ls
+ll
+ls
+set -s escape-time 50
+killall tmux
+tmux
+ll
+ll
+ll
+ll
+killall tmux
+tmux
+ll
+ll
+ll
+killall tmux
+tmux
+ll
+ll
+ll
+ll -a
+tmux
+killall tmux
+tmux
+ll
+ll
+ll -a
+ll
+ll
+ll
+ll -a
+killall tmux
+tmux
+ll
+ll -a
+ll
+ll -a
+cls
+ls
+ll
+killall tmux
+tmux
+tmux
+killall tmux
+tmux
+killall tmux
+tmux
+brew update
+ls -a
+mvim .gitconfig
+gvim
+homesick 
+homesick pull dotfiles
+homesick symlink dotfiles
+ls -a
+rm .gitconfigkillall
+rm .gitconfig\]\]
+cd .homesick/repos/dotfiles/home
+ls -a
+rm .g*
+~
+homesick pull dotfiles
+ls .homesick/repos/dotfiles/home
+ls -a .homesick/repos/dotfiles/home
+homesick 
+cd .homesick/repos/dotfiles/home
+ls -a
+gvim .gitconfig
+~
+homesick symlink
+homesick commit

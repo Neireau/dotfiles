@@ -1,5 +1,5 @@
 [user]
-	name = Neireau
-	email = k.t.c.gravenhorst@me.com
+        name = Neireau
+        email = k.t.c.gravenhorst@me.com
 [push]
-	default = simple
+        default = simple
