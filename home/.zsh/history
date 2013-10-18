@@ -495,3 +495,7 @@ tmux
 killall tmux
 tmux
 homesick commit
+homesick
+homesick push
+homesick track .vim
+homesick commit
