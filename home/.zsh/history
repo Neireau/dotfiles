@@ -794,3 +794,28 @@ killall tmux
 killall iterm
 killall iTerm
 homesick commit 
+homesick push
+tmux
+s hostname MacBookPro
+echo test
+gvim .zsh/06-prompt.zsh
+gvim .zsh/rzsh_path
+print "%F{#{@i}} \» " unless @i < 2
+	print "%F{240}#{d}"
+	print "%F{240}#{d}"
+	print "%F{240}#{d}"
+	print "%F{240}#{d}"
+print "%F{240}#{d}"
+ENV["PWD"].gsub(/home\/[a-zA-Z0-9]*/, "~").split("/").each { |d|\
+	print "%F{#{@i}} \» " unless @i < 2
+	print "%F{240}#{d}"
+	@i += 1
+gvim .zsh/rzsh_path
+pwd
+$PRMPT
+killall tmux
+tmux
+killall tmux
+tmux
+homesick commit
+homesick commit
