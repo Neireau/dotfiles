@@ -523,3 +523,8 @@ ls -a .homesick/repos/dotfiles/home/
 ls -a
 rm -rf .subversion
 homesick commit
+homesick push
+ls .zsh
+gvim .zsh/07-zstyles.zsh .zsh/07-zstyle.zsh
+rm .zsh/07-zstyle.zsh
+homesick commit
